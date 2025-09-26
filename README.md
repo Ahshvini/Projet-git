@@ -1,2 +1,2 @@
 # Projet-git
-Projrt Git et GItHub
+Projet Git et GitHub
